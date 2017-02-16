@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hotfix changes  0001 Arthur-Accenture
 changes made for subBranch!
+=======
+hotfix changes  0001 Arthur
+I am here, how are your?
+>>>>>>> Hotfix-0001
